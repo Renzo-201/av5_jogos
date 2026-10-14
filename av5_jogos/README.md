@@ -6,6 +6,6 @@ Projeto desenvolvido com Python, SQLAlchemy e SQLite/MySQL para a avaliação AV
 
 1. Clone o repositório do projeto:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone git clone https://github.com/Renzo-201/av5_jogos.git
    cd av5_jogos
    
